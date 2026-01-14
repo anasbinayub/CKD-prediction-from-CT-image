@@ -1,4 +1,4 @@
-# 🩺 Chronic Kidney Disease (CKD) Prediction from CT Images Using Deep Learning
+# 🩺 Chronic Kidney Disease (CKD) Prediction from CT Images Using Deep Learning Model
 
 This repository contains a **deep learning–based medical image classification project** that predicts kidney conditions from CT scan images. A **Convolutional Neural Network (CNN)** is used to classify kidney CT images into four categories, and **Grad-CAM** is applied to provide explainable visual insights into model predictions.
 
